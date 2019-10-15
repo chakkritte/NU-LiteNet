@@ -1,5 +1,8 @@
-## NU-LITENET: MOBILE LANDMARK RECOGNITION USING CONVOLUTIONAL NEURAL NETWORKS
-Coming soon
+# NU-LiteNet: Mobile Landmark Recognition using Convolutional Neural Networks
+By [Chakkrit Termritthikun](https://github.com/chakkritte) and Paisarn Muneesawang.
+
+This repository is the implementation of "NU-LiteNet: Mobile Landmark Recognition using Convolutional Neural Networks" [[paper]](https://www.tci-thaijo.org/index.php/ecticit/article/view/165074/152412)  on Singapore and Paris landmark datasets.
+
 
 ## Result NU-LiteNet with Singapore landmark dataset
 
